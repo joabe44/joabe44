@@ -1,5 +1,7 @@
 ## # Oii! EU sou o Joabe Ribeiro
 
+👨‍💻 Me chamo Joabe Ribeiro, tenho 24 anos e sou natural de Brasília. Atualmente, estou graduando em Análise e Desenvolvimento de Sistemas pela Estácio.
+
 📚 Estudando Front-end
 
 <div>
