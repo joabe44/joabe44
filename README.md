@@ -43,5 +43,5 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabe44&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 
-
+<img src="https://raw.githubusercontent.com/joabe44/joabe44/output/snake.svg" alt="Snake animation" />
 
