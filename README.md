@@ -1,4 +1,6 @@
-## # Oii! EU sou o Joabe Ribeiro
+# 👨‍💻 Joabe Ribeiro
+
+**`Desenvolvedoro Front-end`**
 
 👨‍💻 Me chamo Joabe Ribeiro, tenho 24 anos e sou natural de Brasília. Atualmente, estou graduando em Análise e Desenvolvimento de Sistemas pela Estácio.
 
@@ -12,7 +14,8 @@
   
 </div> 
 
-🤖  Linguagens e Tecnologias
+
+## 🤖  Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,12 +25,23 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div> 
 
-##
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=joabe44&show_icons=true&theme=tokyonight&locale=pt-br" 
+  />
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabe44&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+  />
 
 
-<div>
-  <a href="https://github.com/joaberibeiro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joabe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabe&layout=compact&langs_count=16&theme=dark"/>
-  </a>
-</div>
+
